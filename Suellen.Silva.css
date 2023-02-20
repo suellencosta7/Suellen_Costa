@@ -1,0 +1,15 @@
+ @import url('https://fonts.googleapis.com/css2?family=Ewert&display=swap'); 
+ @import url('https://fonts.googleapis.com/css2?family=Ewert&family=Roboto:ital,wght@0,500;1,300&display=swap');
+
+ .div{
+    position: static;
+ }
+
+ .img_perfil {
+
+    max-width:  100px;
+    height: 150;
+    
+
+
+ }
